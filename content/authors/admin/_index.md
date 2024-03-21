@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Sebastian
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jia Le
+last_name: Liao
 
 # Status emoji
 status:
@@ -17,34 +17,32 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Bachelor Of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: National Chengchi University
+    url: https://www.nccu.edu.tw/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computational physics, artificial intelligence, and other knowledge related to science.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Physics
+  - Linear Algebra
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Computer Science & Electronic Physics
+      institution: National Chengchi University
+      year: 2021
+    - course: Student in Science Track
+      institution: Taipei Municipal Chenggong High School
+      year: 2017
+    
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -53,37 +51,37 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 70
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: C++
         description: ''
-        percent: 100
-        icon: chart-line
+        percent: 70
+        icon: c
         icon_pack: fas
-      - name: SQL
+      - name: Javascript
         description: ''
-        percent: 40
-        icon: database
+        percent: 60
+        icon: js
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Movie
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 100
+        icon: film
         icon_pack: fas
       - name: Cats
         description: ''
-        percent: 100
+        percent: 80
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Travel
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: plane
         icon_pack: fas
 
 # Social/Academic Networking
@@ -120,5 +118,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jia Le Liao is a Bachelor of Computer Science and Electronic Physics at National Chengchi University. His research interests include computational physics, artificial intelligence, and other knowledge related to science. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
