@@ -63,7 +63,7 @@ skills:
         description: ''
         percent: 60
         icon: js
-        icon_pack: fas
+        icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -91,7 +91,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: kevin1111006@gamil.com #'/#contact'
+    link: mailto:kevin1111006@gamil.com #'/#contact'
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/le_0912_/
