@@ -31,7 +31,7 @@ bio: My research interests include computational physics, artificial intelligenc
 interests:
   - Artificial Intelligence
   - Computational Physics
-  - Linear Algebra
+  - Data Science
 
 # Education to show in About widget
 education:
@@ -91,7 +91,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: kevin1111006@gamil.com #'/#contact'
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/le_0912_/
@@ -103,7 +103,7 @@ social:
     link: https://github.com/Sebastian-0912
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/kevin-liao-881bb5284/
+    link: https://www.linkedin.com/in/%E5%AE%B6%E6%A8%82-%E5%BB%96-881bb5284/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
