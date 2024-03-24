@@ -32,6 +32,7 @@ interests:
   - Artificial Intelligence
   - Computational Physics
   - Data Science
+  - Image Processing
 
 # Education to show in About widget
 education:
@@ -115,5 +116,5 @@ social:
 highlight_name: true
 ---
 
-Jia Le Liao is a Bachelor of Computer Science and Electronic Physics at National Chengchi University. His research interests include computational physics, artificial intelligence, and other knowledge related to science.
+Jia Le Liao is currently pursuing a Bachelor's degree in Computer Science and Electronic Physics at National Chengchi University. His academic focus revolves around computational physics, artificial intelligence, and other fields of scientific knowledge.
 {style="text-align: justify;"}
