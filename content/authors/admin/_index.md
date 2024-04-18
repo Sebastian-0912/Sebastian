@@ -93,18 +93,22 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:kevin1111006@gamil.com #'/#contact'
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/le_0912_/
-    label: Follow me on Instagram
-    display:
-      header: true
+  # - icon: instagram
+  #   icon_pack: fab
+  #   link: https://www.instagram.com/le_0912_/
+  #   label: Follow me on Instagram
+  #   display:
+  #     header: true
   - icon: github
     icon_pack: fab
     link: https://github.com/Sebastian-0912
+    display:
+      header: true
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/%E5%AE%B6%E6%A8%82-%E5%BB%96-881bb5284/
+    display:
+      header: true
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
